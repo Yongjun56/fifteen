@@ -1,0 +1,129 @@
+Species,CountryofOrigin,HarvestYear,GradingDate,Variety,ProcessingMethod,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,CleanCup,Sweetness,CupperPoints,TotalCupPoints,Moisture,CategoryOneDefects,Quakers,Color,CategoryTwoDefects,Expiration,CertificationBody,unit_of_measurement,altitude_low_meters,altitude_high_meters,altitude_mean_meters
+Arabica,Ethiopia,2014,"April 4th, 2015",,Washed / Wet,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,90.58,0.12,0,0,Green,0,"April 3rd, 2016",METAD Agricultural Development plc,m,1950,2200,2075
+Arabica,Ethiopia,2014,"April 4th, 2015",Other,Washed / Wet,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,89.92,0.12,0,0,Green,1,"April 3rd, 2016",METAD Agricultural Development plc,m,1950,2200,2075
+Arabica,Guatemala,,"May 31st, 2010",Bourbon,,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,9.25,89.75,0,0,0,,0,"May 31st, 2011",Specialty Coffee Association,m,1600,1800,1700
+Arabica,Ethiopia,2014,"March 26th, 2015",,Natural / Dry,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,89,0.11,0,0,Green,2,"March 25th, 2016",METAD Agricultural Development plc,m,1800,2200,2000
+Arabica,Ethiopia,2014,"April 4th, 2015",Other,Washed / Wet,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,88.83,0.12,0,0,Green,2,"April 3rd, 2016",METAD Agricultural Development plc,m,1950,2200,2075
+Arabica,Brazil,2013,"September 3rd, 2013",,Natural / Dry,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,8.33,88.83,0.11,0,0,Bluish-Green,1,"September 3rd, 2014",Specialty Coffee Institute of Asia,m,NA,NA,NA
+Arabica,Peru,2012,"September 17th, 2012",Other,Washed / Wet,8.42,8.5,8.33,8.5,8.25,8.25,10,10,10,8.5,88.75,0.11,0,0,Bluish-Green,0,"September 17th, 2013",Specialty Coffee Institute of Asia,m,NA,NA,NA
+Arabica,Ethiopia,10-Mar,"September 2nd, 2010",,,8.25,8.33,8.5,8.42,8.33,8.5,10,10,9.33,9,88.67,0.03,0,0,,0,"September 2nd, 2011",Ethiopia Commodity Exchange,m,1570,1700,1635
+Arabica,Ethiopia,10-Mar,"September 2nd, 2010",,,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10,9.33,8.67,88.42,0.03,0,0,,0,"September 2nd, 2011",Ethiopia Commodity Exchange,m,1570,1700,1635
+Arabica,Ethiopia,2014,"March 30th, 2015",Other,Natural / Dry,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,88.25,0.1,0,0,Green,4,"March 29th, 2016",METAD Agricultural Development plc,m,1795,1850,1822.5
+Arabica,Ethiopia,2014,"March 27th, 2015",,Natural / Dry,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,0,0,,1,"March 26th, 2016",METAD Agricultural Development plc,m,1855,1955,1905
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,0,0,,0,"March 12th, 2016",Almacaf?,m,1872,1872,1872
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,0,0,,0,"March 12th, 2016",Almacaf?,m,1943,1943,1943
+Arabica,United States (Hawaii),Sept 2009 - April 2010,"May 31st, 2010",,,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,,2,"May 31st, 2011",Specialty Coffee Association,ft,609.6,609.6,609.6
+Arabica,Ethiopia,10-Mar,"August 31st, 2010",,,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,8.5,87.83,0.05,0,0,,2,"August 31st, 2011",Ethiopia Commodity Exchange,m,1570,1700,1635
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,0,0,,0,"March 12th, 2016",Almacaf?,m,2080,2080,2080
+Arabica,Indonesia,May-August,"May 31st, 2010",,,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,8.33,87.42,0.03,0,0,,0,"May 31st, 2011",Specialty Coffee Association,m,1200,1800,1500
+Arabica,Ethiopia,2009/2010,"June 16th, 2010",,,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10,9.33,8.83,87.33,0.05,0,0,,2,"June 16th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,China,2015,"April 7th, 2016",Catimor,Washed / Wet,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,87.25,0.1,0,0,Green,0,"April 7th, 2017",Yunnan Coffee Exchange,m,1450,1450,1450
+Arabica,Ethiopia,2014,"March 25th, 2015",Ethiopian Yirgacheffe,Natural / Dry,8.17,8.17,8,8.17,8.08,8.33,10,10,10,8.33,87.25,0,0,0,,8,"March 24th, 2016",Blossom Valley International,m,1700,2000,1850
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,87.25,0,0,0,None,0,"March 12th, 2016",Almacaf?,m,2019,2019,2019
+Arabica,Costa Rica,2014,"April 2nd, 2014",Caturra,Washed / Wet,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,87.17,0.11,0,0,Green,2,"April 2nd, 2015",Specialty Coffee Association,m,1300,1300,1300
+Arabica,Mexico,2012,"July 26th, 2012",Other,Washed / Wet,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,87.17,0.13,0,0,Green,0,"July 26th, 2013",AMECAFE,m,1320,1320,1320
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,8.17,87.08,0,0,0,,0,"March 12th, 2016",Almacaf?,m,2112,2112,2112
+Arabica,Ethiopia,2013,"September 3rd, 2013",,Natural / Dry,8.42,8.17,7.92,8.17,8.33,8,10,10,10,8.08,87.08,0.11,0,0,Bluish-Green,1,"September 3rd, 2014",Specialty Coffee Institute of Asia,m,NA,NA,NA
+Arabica,Brazil,2011,"December 3rd, 2011",Bourbon,Natural / Dry,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,0,0,Green,2,"December 2nd, 2012",NUCOFFEE,m,1250,1250,1250
+Arabica,Ethiopia,2009/2010,"June 16th, 2010",,,7.83,8.25,8.08,8.17,8.17,8.17,10,10,10,8.25,86.92,0.05,0,0,,2,"June 16th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,Uganda,2013,"June 26th, 2014",SL14,Washed / Wet,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,86.83,0.12,0,0,Green,1,"June 26th, 2015",Uganda Coffee Development Authority,m,1950,1950,1950
+Arabica,Honduras,2016,"May 18th, 2017",Caturra,,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,86.67,0.1,0,0,Green,3,"May 18th, 2018",Instituto Hondure?o del Caf?,m,1400,1400,1400
+Arabica,Taiwan,2015,"May 18th, 2016",Sumatra,Pulped natural / honey,8,8,8,8.25,8,8.17,10,10,10,8.17,86.58,0,0,0,Green,0,"May 18th, 2017",Specialty Coffee Association,m,1200,1200,1200
+Arabica,Nicaragua,,"May 18th, 2010",,,7.92,8.25,8,8.33,8,8.08,10,10,10,8,86.58,0.08,0,0,,2,"May 18th, 2011",Specialty Coffee Association,m,NA,NA,NA
+Arabica,"Tanzania, United Republic Of",2012,"September 3rd, 2013",,Natural / Dry,8.42,8.17,8.17,8,7.58,8,10,10,10,8.17,86.5,0.11,0,0,Bluish-Green,1,"September 3rd, 2014",Specialty Coffee Institute of Asia,m,NA,NA,NA
+Arabica,Brazil,2011,"December 3rd, 2011",Bourbon,Natural / Dry,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,0,0,Green,2,"December 2nd, 2012",NUCOFFEE,m,1300,1300,1300
+Arabica,Costa Rica,2015/2016,"December 3rd, 2015",Caturra,Washed / Wet,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,86.33,0,0,0,Blue-Green,0,"December 2nd, 2016",Specialty Coffee Association of Costa Rica,m,1300,1300,1300
+Arabica,Ethiopia,2014,"March 27th, 2015",,Natural / Dry,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,0,0,Green,3,"March 26th, 2016",METAD Agricultural Development plc,m,1750,1800,1775
+Arabica,Kenya,2013,"May 30th, 2014",SL34,Washed / Wet,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,0,0,Blue-Green,1,"May 30th, 2015",Kenya Coffee Traders Association,m,1800,1800,1800
+Arabica,United States (Hawaii),2012,"April 6th, 2012",Hawaiian Kona,Natural / Dry,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,,4,"April 6th, 2013",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,United States (Hawaii),2010,"January 28th, 2011",,,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,,1,"January 28th, 2012",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Ethiopia,2009/2010,"June 17th, 2010",,,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,8.17,86.25,0.1,0,0,,2,"June 17th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,United States,2014,"March 13th, 2015",Other,Washed / Wet,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,0,0,,0,"March 12th, 2016",Almacaf?,m,1941,1941,1941
+Arabica,Thailand,2012,"April 12th, 2012",Caturra,Washed / Wet,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1,0,Green,9,"April 12th, 2013",Specialty Coffee Association,m,1300,1300,1300
+Arabica,Brazil,2010,"January 4th, 2011",Yellow Bourbon,,8.17,7.92,7.92,7.75,8.33,8,10,10,10,8.08,86.17,0.08,0,0,,2,"January 4th, 2012",Specialty Coffee Association,m,12,12,12
+Arabica,Brazil,2010,"January 4th, 2011",Yellow Bourbon,,8.42,7.92,8,7.75,7.92,8,10,10,10,8.17,86.17,0.01,0,0,,3,"January 4th, 2012",Specialty Coffee Association,m,12,12,12
+Arabica,Taiwan,2015,"June 10th, 2015",Bourbon,Semi-washed / Semi-pulped,8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,8.42,86.08,0.12,0,0,Green,0,"June 9th, 2016",Specialty Coffee Association,m,1000,1000,1000
+Arabica,Kenya,2014,"January 29th, 2015",SL28,Natural / Dry,8.08,8.08,8,8,7.83,8.08,10,10,10,8,86.08,0.11,0,0,Bluish-Green,2,"January 29th, 2016",Kenya Coffee Traders Association,m,1754,1754,1754
+Arabica,Brazil,2011,"December 3rd, 2011",Bourbon,Semi-washed / Semi-pulped,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,0,0,Blue-Green,2,"December 2nd, 2012",NUCOFFEE,m,1250,1250,1250
+Arabica,Uganda,2014,"October 1st, 2014",,Semi-washed / Semi-pulped,8.08,8.08,7.83,7.92,8.08,7.92,10,10,10,8.08,86,0,0,0,,0,"October 1st, 2015",Uganda Coffee Development Authority,m,NA,NA,NA
+Arabica,Colombia,2013,"March 20th, 2014",Caturra,Washed / Wet,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1,0,Green,1,"March 20th, 2015",Specialty Coffee Association,m,900,1500,1200
+Arabica,Kenya,2013,"February 6th, 2014",SL28,Washed / Wet,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,0,0,Green,1,"February 6th, 2015",Specialty Coffee Association,m,1520,2200,1860
+Arabica,Uganda,2012,"February 13th, 2012",Other,Washed / Wet,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,0,0,Blue-Green,0,"February 12th, 2013",Africa Fine Coffee Association,m,1400,1900,1650
+Arabica,Ethiopia,2009/2010,"June 17th, 2010",,,7.75,8.08,8,8.25,8,8,10,10,10,7.92,86,0.01,0,0,,4,"June 17th, 2011",Ethiopia Commodity Exchange,m,1500,2000,1750
+Arabica,United States (Hawaii),Fall 2009,"May 31st, 2010",,,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,,0,"May 31st, 2011",Specialty Coffee Association,ft,426.72,426.72,426.72
+Arabica,Guatemala,2016,"May 16th, 2016",Bourbon,Washed / Wet,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,Green,3,"May 16th, 2017",Asociacion Nacional Del Caf?,m,NA,NA,NA
+Arabica,Uganda,2013,"June 30th, 2014",SL14,Natural / Dry,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,0,0,Green,0,"June 30th, 2015",Uganda Coffee Development Authority,m,1400,1900,1650
+Arabica,Colombia,2013,"July 26th, 2013",Caturra,Washed / Wet,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1,0,Blue-Green,0,"July 26th, 2014",Almacaf?,m,1800,1800,1800
+Arabica,Panama,2017,"October 9th, 2017",Gesha,Washed / Wet,8,8,7.92,8.08,7.83,8,10,10,10,8,85.83,0.08,0,1,Bluish-Green,0,"October 9th, 2018",Specialty Coffee Association of Costa Rica,m,1600,1600,1600
+Arabica,Ethiopia,2014,"April 4th, 2015",,Washed / Wet,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,85.83,0.1,0,0,Green,4,"April 3rd, 2016",METAD Agricultural Development plc,m,1800,2000,1900
+Arabica,Guatemala,2012,"July 3rd, 2012",Bourbon,Washed / Wet,7.83,8,8,8.17,7.83,8,10,10,10,8,85.83,0.12,0,0,Green,3,"July 3rd, 2013",Asociacion Nacional Del Caf?,ft,1524,1524,1524
+Arabica,Guatemala,2012,"June 5th, 2012",Catuai,Washed / Wet,8,8,7.83,8.33,7.83,7.83,10,10,10,8,85.83,0.1,0,0,Bluish-Green,1,"June 5th, 2013",Asociacion Nacional Del Caf?,ft,1417.32,1417.32,1417.32
+Arabica,Ethiopia,2017,"June 23rd, 2017",Caturra,Natural / Dry,7.83,8,7.83,8.17,7.92,8,10,10,10,8,85.75,0.09,0,4,None,7,"June 23rd, 2018",METAD Agricultural Development plc,m,NA,NA,NA
+Arabica,Peru,2013,"January 22nd, 2014",,Washed / Wet,8,8,8,8.08,7.92,7.75,10,10,10,8,85.75,0.1,4,0,Green,6,"January 22nd, 2015",Specialty Coffee Association,m,NA,NA,NA
+Arabica,Papua New Guinea,2012,"October 25th, 2012",,Washed / Wet,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,0,0,Bluish-Green,1,"October 25th, 2013",Specialty Coffee Association,m,1700,1700,1700
+Arabica,El Salvador,2013,"March 18th, 2013",Bourbon,Washed / Wet,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,0,0,Blue-Green,3,"March 18th, 2014",Specialty Coffee Association,m,1500,1500,1500
+Arabica,El Salvador,2012,"January 12th, 2013",Bourbon,Semi-washed / Semi-pulped,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,0,0,None,0,"January 12th, 2014",Specialty Coffee Association,m,1300,1400,1350
+Arabica,United States (Hawaii),2012,"April 6th, 2012",Hawaiian Kona,Natural / Dry,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,,1,"April 6th, 2013",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Panama,2014,"May 23rd, 2015",Caturra,Natural / Dry,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,2,0,,2,"May 22nd, 2016",Blossom Valley International,m,1680,1680,1680
+Arabica,Kenya,2014,"May 23rd, 2015",SL28,Natural / Dry,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,0,0,Green,3,"May 22nd, 2016",Blossom Valley International,m,1900,1900,1900
+Arabica,Ethiopia,2015,"March 31st, 2015",Other,Natural / Dry,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,0,0,Green,7,"March 30th, 2016",METAD Agricultural Development plc,m,1800,2000,1900
+Arabica,Uganda,2013,"June 26th, 2014",SL14,Washed / Wet,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,85.5,0.12,0,0,Green,1,"June 26th, 2015",Uganda Coffee Development Authority,m,1600,1600,1600
+Arabica,Guatemala,2013,"February 26th, 2013",Bourbon,Washed / Wet,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,Green,1,"February 26th, 2014",Asociacion Nacional Del Caf?,ft,1706.88,1755.648,1731.264
+Arabica,Ethiopia,2015,"March 31st, 2015",,Washed / Wet,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,0,0,Green,18,"March 30th, 2016",METAD Agricultural Development plc,m,1800,2000,1900
+Arabica,Uganda,2013,"June 26th, 2014",SL14,Washed / Wet,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,0,0,Green,5,"June 26th, 2015",Uganda Coffee Development Authority,m,1950,1950,1950
+Arabica,United States (Hawaii),2012,"April 6th, 2012",Hawaiian Kona,Natural / Dry,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,,6,"April 6th, 2013",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Brazil,2011,"December 3rd, 2011",Bourbon,Semi-washed / Semi-pulped,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,Blue-Green,1,"December 2nd, 2012",NUCOFFEE,m,1250,1250,1250
+Arabica,El Salvador,2009 / 2010,"May 31st, 2010",,,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,7.92,85.42,0.01,0,0,,0,"May 31st, 2011",Specialty Coffee Association,m,1400,1400,1400
+Arabica,China,2015,"April 6th, 2016",Catimor,Natural / Dry,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,0,0,Green,0,"April 6th, 2017",Yunnan Coffee Exchange,m,1700,1700,1700
+Arabica,Guatemala,2014,"May 23rd, 2015",Pacamara,Natural / Dry,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,0,0,Green,1,"May 22nd, 2016",Blossom Valley International,m,1770,1770,1770
+Arabica,Costa Rica,2014,"May 1st, 2014",Caturra,Washed / Wet,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,85.33,0,0,0,Bluish-Green,0,"May 1st, 2015",Specialty Coffee Association,m,1300,1300,1300
+Arabica,Costa Rica,2014,"May 1st, 2014",Caturra,Washed / Wet,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,85.33,0.1,0,0,Bluish-Green,2,"May 1st, 2015",Specialty Coffee Association,m,1300,1300,1300
+Arabica,Kenya,2012,"April 19th, 2013",SL34,Washed / Wet,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,85.33,0,0,0,Green,2,"April 19th, 2014",Kenya Coffee Traders Association,m,1600,1600,1600
+Arabica,Kenya,2012,"March 12th, 2013",SL34,Washed / Wet,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,85.33,0,0,0,Green,6,"March 12th, 2014",Kenya Coffee Traders Association,m,1200,1200,1200
+Arabica,Ethiopia,2009/2010,"June 17th, 2010",,,7.83,7.83,7.92,8.08,7.75,7.83,10,10,10,8.08,85.33,0.05,0,0,,2,"June 17th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,Ethiopia,2009/2010,"June 17th, 2010",Typica,,7.92,7.83,7.75,8.33,7.75,7.75,10,10,10,8,85.33,0.1,0,0,,3,"June 17th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,Guatemala,2016,"April 27th, 2016",Bourbon,,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,85.25,0.1,0,2,Green,2,"April 27th, 2017",Asociacion Nacional Del Caf?,m,NA,NA,NA
+Arabica,Colombia,2015,"April 8th, 2015",Caturra,Washed / Wet,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,0,0,Green,0,"April 7th, 2016",Almacaf?,m,1550,1550,1550
+Arabica,Colombia,2014,"January 17th, 2014",Caturra,Natural / Dry,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,0,0,Green,2,"January 17th, 2015",Almacaf?,m,1550,1550,1550
+Arabica,Indonesia,2012,"November 26th, 2012",Sumatra Lintong,Semi-washed / Semi-pulped,7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,85.17,0.11,0,0,Green,3,"November 26th, 2013",Specialty Coffee Association,m,1250,1400,1325
+Arabica,Guatemala,2012,"January 18th, 2012",Caturra,Washed / Wet,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,0,0,,7,"January 17th, 2013",Specialty Coffee Association,m,1400,1400,1400
+Arabica,Ethiopia,2016,"August 9th, 2016",Other,Natural / Dry,7.75,8,7.58,8,8,7.92,10,10,10,7.83,85.08,0.11,0,1,Green,8,"August 9th, 2017",METAD Agricultural Development plc,m,NA,NA,NA
+Arabica,Colombia,2015,"August 18th, 2015",Caturra,Natural / Dry,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,,0,"August 17th, 2016",Almacaf?,m,2560,2560,2560
+Arabica,Ethiopia,2014,"October 7th, 2014",,Natural / Dry,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,2,0,Green,7,"October 7th, 2015",Specialty Coffee Association,m,1700,1700,1700
+Arabica,United States (Hawaii),2014,"March 10th, 2014",Hawaiian Kona,Natural / Dry,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,Bluish-Green,2,"March 10th, 2015",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Colombia,2012,"March 16th, 2012",Caturra,Natural / Dry,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,Green,8,"March 16th, 2013",Almacaf?,m,2136,2136,2136
+Arabica,United States (Hawaii),2010-2011,"December 27th, 2010",,,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,,7,"December 27th, 2011",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Ethiopia,2010,"June 17th, 2010",,,7.67,8,7.83,8,7.92,7.83,10,10,10,7.83,85.08,0,0,0,,5,"June 17th, 2011",Ethiopia Commodity Exchange,m,NA,NA,NA
+Arabica,United States (Hawaii),,"May 17th, 2010",,,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,,0,"May 17th, 2011",Specialty Coffee Association,ft,NA,NA,NA
+Arabica,Uganda,2016,"July 24th, 2017",SL14,Washed / Wet,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,0,0,Green,1,"July 24th, 2018",Uganda Coffee Development Authority,m,1800,1800,1800
+Arabica,Colombia,2016,"February 15th, 2017",Caturra,Washed / Wet,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,Green,3,"February 15th, 2018",Almacaf?,m,NA,NA,NA
+Arabica,Costa Rica,2016,"January 30th, 2017",Catuai,Washed / Wet,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1,1,Green,1,"January 30th, 2018",Specialty Coffee Association,m,1900,1900,1900
+Arabica,Mexico,2015,"September 21st, 2016",Typica,Washed / Wet,7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,85,0.09,0,0,Green,3,"September 21st, 2017",Centro Agroecol?gico del Caf? A.C.,m,1300,1300,1300
+Robusta,Uganda,2013,"June 26th, 2014",,,7.83,8.08,7.75,7.92,8,8.25,10,10,7.92,8,83.75,0.12,0,0,Green,2,"June 26th, 2015",Uganda Coffee Development Authority,m,1488,1488,1488
+Robusta,India,2017,"October 31st, 2017",,Washed / Wet,8,7.75,7.92,8,8,7.92,10,10,7.92,8,83.5,0,0,0,,2,"October 31st, 2018",Specialty Coffee Association,m,3170,3170,3170
+Robusta,India,2015,"April 30th, 2015",,,7.92,7.83,7.92,8,7.83,7.83,10,10,7.92,8,83.25,0,0,0,Green,0,"April 29th, 2016",Specialty Coffee Association,m,1000,1000,1000
+Robusta,Uganda,2013,"July 14th, 2014",,,8,7.92,7.92,7.75,7.75,7.83,10,10,7.75,8.08,83,0.12,0,0,Green,7,"July 14th, 2015",Uganda Coffee Development Authority,m,1212,1212,1212
+Robusta,Uganda,2013,"June 26th, 2014",,,8.33,7.83,7.83,7.75,7.58,8.25,10,10,7.75,7.67,83,0.12,0,0,Green,3,"June 26th, 2015",Uganda Coffee Development Authority,m,1200,1300,1250
+Robusta,India,2012,"February 29th, 2012",,,8,7.92,7.67,8,7.75,7.75,10,10,7.92,7.75,82.75,0,0,0,Green,0,"February 28th, 2013",Specialty Coffee Association,m,3000,3000,3000
+Robusta,India,2014,"May 15th, 2014",,,7.67,7.75,7.83,7.83,8,7.92,10,10,7.75,7.83,82.58,0,0,0,Green,0,"May 15th, 2015",Specialty Coffee Association,m,750,750,750
+Robusta,India,2017,"October 25th, 2017",,Washed / Wet,7.67,7.75,7.83,7.67,7.92,7.92,10,10,7.83,7.92,82.5,0.1,0,0,Bluish-Green,0,"October 25th, 2018",Specialty Coffee Association,m,3140,3140,3140
+Robusta,India,2015,"August 17th, 2016",Other,Washed / Wet,7.67,7.75,7.58,7.83,7.92,7.83,10,10,8,7.92,82.5,0.09,0,0,Green,0,"August 17th, 2017",Specialty Coffee Association,m,1000,1000,1000
+Robusta,Uganda,2014,"August 5th, 2014",,,7.67,7.83,7.83,7.83,7.75,7.92,10,10,7.75,7.83,82.42,0.12,0,0,Green,6,"August 5th, 2015",Uganda Coffee Development Authority,m,900,1300,1100
+Robusta,Uganda,2014,"June 26th, 2014",,,7.58,7.92,7.75,7.83,7.67,7.5,10,10,7.67,7.83,81.75,0.12,0,0,Green,1,"June 26th, 2015",Uganda Coffee Development Authority,m,1095,1095,1095
+Robusta,India,2015,"August 23rd, 2016",Other,Natural / Dry,7.67,7.83,7.75,7.5,7.75,7.75,10,10,7.58,7.75,81.58,0.11,0,0,Green,0,"August 23rd, 2017",Specialty Coffee Association,m,1000,1000,1000
+Robusta,India,2014,"May 19th, 2014",,,7.58,7.58,7.67,7.58,7.5,7.67,10,10,7.67,8.33,81.58,0,0,0,Green,1,"May 19th, 2015",Specialty Coffee Association,m,750,750,750
+Robusta,Uganda,2013,"July 14th, 2014",,,8,7.75,7.75,7.58,7.58,7.67,10,10,7.5,7.67,81.5,0.11,0,0,Green,7,"July 14th, 2015",Uganda Coffee Development Authority,m,1367,1367,1367
+Robusta,Uganda,2014,"July 14th, 2014",,,8,7.67,7.75,7.5,7.58,7.67,10,10,7.58,7.75,81.5,0.12,0,0,Green,2,"July 14th, 2015",Uganda Coffee Development Authority,m,1488,1488,1488
+Robusta,India,2015,"April 30th, 2015",,,7.75,7.75,7.67,7.67,7.58,7.58,10,10,7.58,7.83,81.42,0,0,0,Green,0,"April 29th, 2016",Specialty Coffee Association,m,1000,1000,1000
+Robusta,India,2013,"June 3rd, 2013",,Natural / Dry,7.5,7.5,7.25,7.83,7.83,7.67,10,10,7.83,7.83,81.25,0.13,0,0,Blue-Green,0,"June 3rd, 2014",Specialty Coffee Association,m,750,750,750
+Robusta,Uganda,2013,"June 27th, 2014",,,7.33,7.58,7.5,7.75,7.75,7.75,10,10,7.67,7.58,80.92,0.12,0,0,Green,1,"June 27th, 2015",Uganda Coffee Development Authority,m,1600,1600,1600
+Robusta,Uganda,2013,"June 27th, 2014",,,7.83,7.58,7.33,7.67,7.75,7.5,10,10,7.5,7.42,80.58,0.12,0,0,Green,2,"June 27th, 2015",Uganda Coffee Development Authority,m,1745,1745,1745
+Robusta,Uganda,2013,"June 27th, 2014",,,7.75,7.42,7.33,7.58,7.67,7.67,10,10,7.58,7.5,80.5,0.12,0,0,Green,1,"June 27th, 2015",Uganda Coffee Development Authority,m,1200,1200,1200
+Robusta,India,2014,"May 19th, 2014",,,7.67,7.67,7.5,7.33,7.42,7.58,10,10,7.5,7.5,80.17,0,0,0,Bluish-Green,1,"May 19th, 2015",Specialty Coffee Association,m,750,750,750
+Robusta,India,2013,"June 20th, 2013",,Natural / Dry,7.58,7.42,7.42,7.83,7.42,7.42,10,10,7.5,7.58,80.17,0,0,0,Green,0,"June 20th, 2014",Specialty Coffee Association,m,750,750,750
+Robusta,United States,2012,"February 29th, 2012",Arusha,Natural / Dry,7.92,7.5,7.42,7.42,7.58,7.42,9.33,10,7.42,7.33,79.33,0,0,0,Green,0,"February 28th, 2013",Specialty Coffee Association,m,3000,3000,3000
+Robusta,Ecuador,2016,"January 19th, 2016",,,7.75,7.58,7.33,7.58,7.75,5.08,10,10,7.83,7.83,78.75,0,0,0,Blue-Green,1,"January 18th, 2017",Specialty Coffee Association,m,NA,NA,NA
+Robusta,Ecuador,2016,"January 19th, 2016",,,7.5,7.67,7.75,7.75,8.42,5.17,10,10,5.25,8.58,78.08,0,0,0,Blue-Green,0,"January 18th, 2017",Specialty Coffee Association,m,40,40,40
+Robusta,United States,2014,"December 23rd, 2014",,Natural / Dry,7.33,7.33,7.17,7.42,7.42,7.5,9.33,9.33,7.17,7.17,77.17,0,0,0,,6,"December 23rd, 2015",Specialty Coffee Association,m,795,795,795
+Robusta,India,2013,"August 25th, 2014",,Natural / Dry,7.42,6.83,6.75,7.17,7.08,7.25,9.33,9.33,7,6.92,75.08,0.1,20,0,Green,1,"August 25th, 2015",Specialty Coffee Association,m,NA,NA,NA
+Robusta,Vietnam,2013,"August 25th, 2014",,Natural / Dry,6.75,6.67,6.5,6.83,6.67,6.92,9.33,9.33,6.83,7.92,73.75,0.12,63,0,None,9,"August 25th, 2015",Specialty Coffee Association,m,NA,NA,NA
