@@ -1,4 +1,4 @@
-place,class,customer,usage,charge,avgsellingprice,avgusage,avgcharge
+place,classfication,customer,usage,charge,avgsellingprice,avgusage,avgcharge
 Kangwon,streetlamp,"114,445","17,690,707","1,991,821,006",112.6,154.5782428,17404.17673
 Kangwon,education,"1,054","19,895,068","1,971,808,383",99.1,18875.77609,1870785.942
 Kangwon,farming,"102,941","58,307,832","2,945,414,698",50.5,566.4199104,28612.64897
